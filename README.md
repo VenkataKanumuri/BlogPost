@@ -9,3 +9,14 @@ Research has proven that students with a collaborative approach tend to acquire 
 Use case diagram :
 
 <img width="489" alt="Screenshot 2022-04-28 at 05 50 53" src="https://user-images.githubusercontent.com/93559057/165672777-b160dd2a-a8bc-462d-b386-aaf85fda29c3.png">
+
+
+Activity Diagram :
+
+<img width="477" alt="Screenshot 2022-04-28 at 05 52 14" src="https://user-images.githubusercontent.com/93559057/165672917-fb6b3f92-a063-42f1-b32c-a6900d2ec347.png">
+
+
+RESULTS AND FEEDBACK:
+
+To test and evaluate our methodology, we took feedback from 42 participants. Our participants were users of current online teaching systems. These participants had very basic or moderate understandings of the concepts mentioned in our blog post. Participants had to either answer it on a Likert scale of 1 to 5 or choose from the options. We observed that most participants found the classroom environment not so collaborative and blog environment or digital learning to be more productive. When questioned about the blogging methodology, 73.2% of the users felt that it has helped them enhance their knowledge acquisition. The concept map technique helped 78.5% of the users clarify their doubts or misconceptions better with the agile process interactions. 71.4% of the users found the structuring of the topics very useful in finding the related. topics. 57.1%of users understood the topics better after reading the blog posts. Blog Functionality rating feedback.
+
